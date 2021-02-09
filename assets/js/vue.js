@@ -72,6 +72,78 @@ const products = [
 		price: 6,
 		img: "assets/img/mesh-genova.JPG",
 	},
+	{
+		id: 13,
+		description: "Quarz Luxe Pro",
+		price: 24,
+		img: "assets/img/quarz-luxe.JPG",
+	},
+	{
+		id: 14,
+		description: "Curren Business Pro",
+		price: 40,
+		img: "assets/img/curren-business.JPG",
+	},
+	{
+		id: 15,
+		description: "Curren Sport Pro",
+		price: 10,
+		img: "assets/img/curren-sport.JPG",
+	},
+	{
+		id: 16,
+		description: "Jaragar Racing Pro",
+		price: 116,
+		img: "assets/img/jaragar-racing.JPG",
+	},
+	{
+		id: 17,
+		description: "Liges Hommes Pro",
+		price: 6,
+		img: "assets/img/liges-hommes.JPG",
+	},
+	{
+		id: 18,
+		description: "Maserati Mechanical Pro",
+		price: 110,
+		img: "assets/img/maserati-mechanical.JPG",
+	},
+	{
+		id: 19,
+		description: "Montre Mecanique Pro",
+		price: 120,
+		img: "assets/img/montre-mecanique.JPG",
+	},
+	{
+		id: 20,
+		description: "Brand Designer Pro",
+		price: 56,
+		img: "assets/img/brand-designer.JPG",
+	},
+	{
+		id: 21,
+		description: "Relogio Masculino Pro",
+		price: 9,
+		img: "assets/img/relogio-masculino.JPG",
+	},
+	{
+		id: 22,
+		description: "Tissot Multifunction Pro",
+		price: 41,
+		img: "assets/img/tissot-multifunction.JPG",
+	},
+	{
+		id: 23,
+		description: "Hip Hop Gold Pro",
+		price: 160,
+		img: "assets/img/hiphop-gold.JPG",
+	},
+	{
+		id: 24,
+		description: "Mesh Genova Pro",
+		price: 12,
+		img: "assets/img/mesh-genova.JPG",
+	},
 ];
 
 const Home = {
